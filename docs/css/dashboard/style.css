@@ -1,15 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-}
-
-pre {
     background-color: #f8f9fa;
-    padding: 15px;
-    border-radius: 5px;
-    overflow-x: auto;
 }
 
-footer {
-    margin-top: 50px;
+.card {
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    background: #ffffff;
 }
